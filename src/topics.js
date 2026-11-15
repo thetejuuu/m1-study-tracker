@@ -190,7 +190,7 @@ export const initialTopics = [
   },
   {
     "id": 22,
-    "title": "Gastroenterology IV: Seminar I: Diarrhea diseases",
+    "title": "Seminar I: Diarrheal diseases",
     "specialty": "Gastroenterology",
     "lecturer": "Dr Bojuwoye",
     "scheduleDate": "Week 1",
