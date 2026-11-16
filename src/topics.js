@@ -63,15 +63,6 @@ export const initialTopics = [
     "category": "Lecture"
   },
   {
-    "id": 8,
-    "title": "Missed lecture",
-    "specialty": "General Medicine",
-    "lecturer": "Prof Kolo",
-    "scheduleDate": "Week 1",
-    "week": 1,
-    "category": "Free / missed session"
-  },
-  {
     "id": 9,
     "title": "Medicine (CVS) IV: Heart Muscle Disease",
     "specialty": "Cardiovascular Medicine",
@@ -126,24 +117,6 @@ export const initialTopics = [
     "category": "Lecture"
   },
   {
-    "id": 15,
-    "title": "MEDICINE GRAND ROUND",
-    "specialty": "General Medicine",
-    "lecturer": "ALL STAFF (Medicine)",
-    "scheduleDate": "Week 1",
-    "week": 1,
-    "category": "Grand round"
-  },
-  {
-    "id": 16,
-    "title": "Mini Projects in Medicine (Meeting with Supervisors)",
-    "specialty": "General Medicine",
-    "lecturer": "Dr Ayedun",
-    "scheduleDate": "Week 1",
-    "week": 1,
-    "category": "Mini project"
-  },
-  {
     "id": 17,
     "title": "Skin & its Appendages",
     "specialty": "Dermatology",
@@ -178,15 +151,6 @@ export const initialTopics = [
     "scheduleDate": "Week 1",
     "week": 1,
     "category": "Lecture"
-  },
-  {
-    "id": 21,
-    "title": "Mini Projects in Medicine (Meeting with Supervisors)",
-    "specialty": "General Medicine",
-    "lecturer": "ALL lecturers",
-    "scheduleDate": "Week 1",
-    "week": 1,
-    "category": "Mini project"
   },
   {
     "id": 22,
@@ -378,33 +342,6 @@ export const initialTopics = [
     "category": "Symposium"
   },
   {
-    "id": 43,
-    "title": "Free / Missed lectures",
-    "specialty": "General Medicine",
-    "lecturer": "Any lecturer",
-    "scheduleDate": "Week 2",
-    "week": 2,
-    "category": "Free / missed session"
-  },
-  {
-    "id": 44,
-    "title": "MEDICINE GRAND ROUND",
-    "specialty": "General Medicine",
-    "lecturer": "ALL STAFF (Medicine)",
-    "scheduleDate": "Week 2",
-    "week": 2,
-    "category": "Grand round"
-  },
-  {
-    "id": 45,
-    "title": "Mini Projects in Medicine (Meeting with Supervisors)",
-    "specialty": "General Medicine",
-    "lecturer": "All lectures",
-    "scheduleDate": "Week 2",
-    "week": 2,
-    "category": "Mini project"
-  },
-  {
     "id": 46,
     "title": "Gastroenterology VIII: Seminar VIII: GI Bleeding",
     "specialty": "Gastroenterology",
@@ -439,15 +376,6 @@ export const initialTopics = [
     "scheduleDate": "Week 2",
     "week": 2,
     "category": "Lecture"
-  },
-  {
-    "id": 50,
-    "title": "Missed lecture",
-    "specialty": "General Medicine",
-    "lecturer": "Any lecturer",
-    "scheduleDate": "Week 2",
-    "week": 2,
-    "category": "Free / missed session"
   },
   {
     "id": 51,
@@ -583,15 +511,6 @@ export const initialTopics = [
     "scheduleDate": "Week 3",
     "week": 3,
     "category": "PBL"
-  },
-  {
-    "id": 66,
-    "title": "Missed lectures",
-    "specialty": "General Medicine",
-    "lecturer": "Any lecturer",
-    "scheduleDate": "Week 3",
-    "week": 3,
-    "category": "Free / missed session"
   },
   {
     "id": 67,
